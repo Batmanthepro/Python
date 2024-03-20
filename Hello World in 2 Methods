@@ -1,0 +1,4 @@
+print("Hello World")
+'''We can also print "Hello World" by creating a variable Ex. -->
+a = "Hello World"
+print (a)'''
